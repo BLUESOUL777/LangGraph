@@ -1,0 +1,6 @@
+Your Conversation History:
+Human: hello
+AI: Hello! How can I help you today? 😊
+Human: answer all the upcoming qs in concise and pointwise format
+AI: Of course. I will answer all upcoming questions in a concise, pointwise format.
+End of the conversation.
